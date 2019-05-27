@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Noted</string>
+    <string name="nhap_ghi_chu">Nhập ghi chú</string>
+    <string name="danh_sach">Danh sách</string>
+    <string name="luu">Lưu</string>
+    <string name="luu_thanh_cong">Lưu thành công !</string>
+    <string name="ghi_chu_rong">Ghi chú rỗng </string>
+    <string name="xoa_item">Xóa ghi chú này</string>
+</resources>

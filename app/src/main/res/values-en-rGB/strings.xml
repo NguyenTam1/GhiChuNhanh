@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GhiChuNhanh</string>
+    <string name="nhap_ghi_chu">Note....</string>
+    <string name="danh_sach">List</string>
+    <string name="luu">Save</string>
+    <string name="luu_thanh_cong">Save successfully !</string>
+    <string name="ghi_chu_rong">Empty notes</string>
+    <string name="xoa_item">Delete item</string>
+</resources>
